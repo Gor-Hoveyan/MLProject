@@ -60,7 +60,7 @@ The following insights were derived from the data:
 | :--- | :--- |
 | **Algorithm** | Random Forest Regressor |
 | **Mean Absolute Error (MAE)** | ~$9,510 USD |
-| **R² Score** | 0.21 |
+| **R² Score** | 0.75 |
 
 *Note: The R² score indicates that while age and mileage are strong indicators, other factors (condition, engine size, options) also play a significant role in pricing.*
 
