@@ -76,7 +76,7 @@ The following insights were derived from the data:
 ---
 
 ## 🎓 Author
-**Gor Hoveyan** Artificial Intelligence & Machine Learning Student  
+**Gor Hoveyan** Artificial Intelligence & Machine Learning  
 Academic Year: 2026
 
 ---
